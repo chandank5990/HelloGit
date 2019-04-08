@@ -4,3 +4,5 @@ Hello CSK.
 My Weekly Plan
 1. I will cover GitHub
 2.Python
+
+Thanks:)
